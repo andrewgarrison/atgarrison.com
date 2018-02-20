@@ -1,5 +1,6 @@
 ---
 title: The $5 Savings Strategy
+date: 2018-02-19T20:30:00-06:00
 Categories: Finance
 type: posts
 Description: >-
@@ -23,8 +24,8 @@ So how can you actually build your portfolio up $25,000 or heck, $1 Million? It'
 2. Utilize Acorns' recurring investments and spare change round ups to fund your portfolio with $5 a day. Recurring investments allow you to set up daily automatic deposits of $5 into your account so you will never forget to fund your portfolio each day.
 3. Do this for 40 - 50 years and you will have a portfolio worth over $1 Million.
 
-![Acorns Screenshot](/src/img/Chart_Proof_IMG.jpg)
+![Acorns Screenshot](/img/Chart_Proof_IMG.jpg)
 
-Want to start investing in your future? Sign up now and Acorns will put the first $5 in your portfolio for **_free_**.
+Want to start investing in your future? Sign up now and Acorns will put the first $5 in your portfolio for _**free**_.
 
 <p style="text-align: center;"><a href="//acorns.com/invite/T9A7J3" class="btn btn-primary">Sign Up For Acorns Now</a></p>
