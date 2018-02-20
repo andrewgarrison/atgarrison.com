@@ -1,0 +1,59 @@
+/* General blog page that lists posts */
+
+.c-snippet {
+    max-width: 100%;
+    margin: 20px;
+
+    @media (min-width: 768px) {
+        max-width: 415px;
+        height: auto;
+    }
+    
+    &__header {
+        position: relative;
+    }
+
+    &__category {
+        position: absolute;
+        text-transform: uppercase;
+        font-size: 12px;
+        letter-spacing: 1px;
+        color: var(--white);
+        left: 12px;
+    }
+
+    &__title {
+        display: block;
+        margin-top: 16px;
+        font-size: 1.378rem;
+        text-decoration: none;
+        width: auto;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    &__date {
+        color: var(--gray);
+    }
+
+    &__description {
+        font-size: 1rem;
+    }
+}
+
+/* Individual Blog Posts */
+.c-post {
+
+    &__date {
+        color: var(--gray);
+        margin-top: -8px;
+    }
+
+    &__feature-img,
+    img {
+        margin: 48px 0;
+    }
+}
+

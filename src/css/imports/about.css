@@ -1,0 +1,54 @@
+#andrew-garrison {
+    text-align: center;
+}
+
+.c-image {
+    &--profile {
+        border-radius: 50%;
+        height: 150px;
+        width: 150px;
+        max-width: 100%;
+    }
+}
+
+.c-info {
+    text-align: center;
+
+    &__location:before {
+
+    }
+
+    &__age:before {
+
+    }
+
+    &__occupation:before {
+
+    }
+
+    &__social {
+        margin-top: 16px;
+
+        &-icon {
+            margin: 8px;
+        }
+
+        .fa {
+            &-linkedin-in {
+                color: #0077B5;
+            }
+
+            &-github {
+                color: #24292e;
+            }
+
+            &-twitter {
+                color: #1da1f2;
+            }
+
+            &-instagram {
+                color: #cd486b;
+            }
+        }
+    }
+}

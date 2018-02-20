@@ -1,0 +1,13 @@
+:root {
+    /* Colors */
+    --white: #f3f3f3;
+    --black: #1d2122;
+    --gray: #6e6e6e;
+    --blue: #3b6dbf;
+    --yellow: #e9d758;
+    /* Breakpoints */
+    --screen-xs: 768px; /* Phones (max) */
+    --screen-sm: 768px; /* Tablets (min) */
+    --screen-md: 992px; /* Small Laptops */
+    --screen-lg: 1200px; /* Laptops and Desktops */
+}

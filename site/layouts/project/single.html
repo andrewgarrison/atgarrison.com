@@ -1,0 +1,19 @@
+{{ partial "header" . }}
+
+<div class="content container c-post">
+  <h1 class="c-post__title">{{ .Title }}</h1>
+  <h5 class="c-post__date">{{.Date.Format "January 2, 2006"}} | {{.Params.Categories}}</h5>
+  <img class="c-post__feature-img" {{ with .Params.feature_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}" />
+  <div class="c-post__content">
+    {{ .Content }}
+    <a class="btn btn-primary" {{ with .Params.website }} href="{{ . }}" {{ end }} >Visit The Site</a>
+  </div>
+
+  <!-- <div class="c-related">
+        <div class="c-subheading">Other Projects</div>
+  </div> -->
+
+
+</div>
+
+{{ partial "footer" . }}

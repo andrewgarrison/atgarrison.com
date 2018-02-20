@@ -1,0 +1,11 @@
+{{ partial "header" . }}
+
+{{ if not (isset .Params "page_layout") | or (eq .Params.page_layout "") }}
+<div class="content container">
+{{ else }}
+<div class="content container {{.Params.page_layout}}">
+{{ end }}
+  {{ .Content }}
+</div>
+
+{{ partial "footer" . }}

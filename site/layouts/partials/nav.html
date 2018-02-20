@@ -1,0 +1,13 @@
+<nav>
+    <a href="/" class="logo"></a>
+    <div class="menu-icon">
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+    <ul>
+        {{ range .Site.Menus.main }}
+          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+        {{end}}
+    </ul>
+</nav>
