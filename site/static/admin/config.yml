@@ -6,14 +6,26 @@ backend:
 media_folder: "src/img"
 
 collections:
-  name: "posts"
-  label: "Blog Post"
-  folder: "site/content/blog/posts"
-  create: true
-  fields:
-    - {label: "Name of Post", name: "title", widget: "string"}
-    - {label: "Category", name: "Categories", widget: "string"}
-    - {label: "Type", name: "type", widget: "select", options: ["posts", "project"]}
-    - {label: "Description", name: "Description", widget: "string"}
-    - {label: "Feature Image", name: "feature_image", widget: "image"}
-    - {label: "Body", name: "body", widget: "markdown"}
+  - name: "posts"
+    label: "Blog Post"
+    folder: "site/content/blog/posts"
+    create: true
+    fields:
+      - {label: "Name of Post", name: "title", widget: "string"}
+      - {label: "Category", name: "Categories", widget: "string"}
+      - {label: "Type", name: "type", widget: "select", options: ["posts", "project"]}
+      - {label: "Description", name: "Description", widget: "string"}
+      - {label: "Feature Image", name: "feature_image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "projects"
+    label: "Project"
+    folder: "site/content/projects/project"
+    create: true
+    fields:
+      - {label: "Name of Project", name: "title", widget: "string"}
+      - {label: "Category", name: "Categories", widget: "string"}
+      - {label: "Type", name: "type", widget: "select", options: ["posts", "project"]}
+      - {label: "Description", name: "Description", widget: "string"}
+      - {label: "Feature Image", name: "feature_image", widget: "image"}
+      - {label: "Website Link", name: "website", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
