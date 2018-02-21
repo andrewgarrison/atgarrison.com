@@ -30,4 +30,10 @@ So how can you actually build your portfolio up $25,000 or heck, $1 Million? It'
 
 Want to start investing in your future? Sign up now and Acorns will put the first $5 in your portfolio for **_free_**.
 
-<p style="text-align: center;"><a href="//acorns.com/invite/T9A7J3" class="btn btn-primary">Sign Up For Acorns Now</a></p>
+<p style="text-align: center;"><a onclick="firePixel()" href="//acorns.com/invite/T9A7J3" class="btn btn-primary">Sign Up For Acorns Now</a></p>
+
+<script>
+  function firePixel() {
+    fbq('track', 'Lead');
+  }
+</script>
