@@ -21,17 +21,13 @@ Acorns is 100% free for all students to use and otherwise costs just $1 a month 
 So how can you actually build your portfolio up $25,000 or heck, $1 Million? It's actually simpler than you might think. Here's how:
 
 1. Choose an Acorns portfolio with roughly 50% stocks and 50% bonds. In the past 100 years, blue chip stocks have paid an average 10% of interest while investment bonds have paid 6%. This averages out to be 8% - the golden interest rate that makes this possible.
+
 2. Utilize Acorns' recurring investments and spare change round ups to fund your portfolio with $5 a day. Recurring investments allow you to set up daily automatic deposits of $5 into your account so you will never forget to fund your portfolio each day.
+
 3. Do this for 40 - 50 years and you will have a portfolio worth over $1 Million.
 
 ![Acorns Screenshot](/img/Chart_Proof_IMG.jpg)
 
 Want to start investing in your future? Sign up now and Acorns will put the first $5 in your portfolio for _**free**_.
 
-<p style="text-align: center;"><a onclick="firePixel()" href="//acorns.com/invite/T9A7J3" class="btn btn-primary">Sign Up For Acorns Now</a></p>
-
-<script>
-  function firePixel() {
-    fbq('track', 'Lead');
-  }
-</script>
+<p style="text-align: center;"><a href="//acorns.com/invite/T9A7J3" class="btn btn-primary">Sign Up For Acorns Now</a></p>
