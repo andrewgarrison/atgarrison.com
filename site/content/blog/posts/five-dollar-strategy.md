@@ -1,5 +1,5 @@
 ---
-title: How to Become a Millionaire by Saving $5 a Day
+title: The $5 Savings Strategy
 date: 2018-02-20T02:30:00.000Z
 Categories: Finance
 type: posts
