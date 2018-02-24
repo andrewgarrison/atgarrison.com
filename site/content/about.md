@@ -29,6 +29,4 @@ I'm currently a Sophomore in College at the <a href="//www.unomaha.edu/" title="
 
 ![Workspace](/img/workspace.jpg "Andrew's Desk and Computer")
 
-When I am not in the classroom at UNO, or working out of the Gallup Office in downtown Omaha, this is where I hide away and get stuff done.
-
-I saved up enough money from my 3 month long full-time intership in the summer of 2017 at Gallup and purchased a 2017 iMac. It's the 27" base model with 1TB of internal storage, a 5k display and 16GB of RAM.
+This is where I hide away to work on new creative projects and watch the usual Netflix show (currently that's New Girl). I work (and watch) on a 27" 2017 iMac. It's the base model with 1TB of internal storage, a 5k display, and 16GB of RAM.
