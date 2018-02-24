@@ -8,7 +8,7 @@ Description: >-
   stocks in companies like Amazon and Tesla.
 feature_image: /img/five-dollar-investing.jpg
 ---
-For someone who has never invested in the stock market before it can seem very difficult to begin. Whether it's the daunting task of finding a financial adviser or not knowing where to even begin when choosing which stocks to buy, the whole process seems out of reach. How do I know this? Because I was in this exact position with those exact thoughts just a few years ago.
+For someone who has never invested in the stock market before it can seem very difficult to begin. Whether it's the daunting task of finding a financial adviser, not having enough money to buy shares in stock with, or the fear of investing in the wrong companies, the whole process seems out of reach. How do I know this? Because I was in this exact position with those exact thoughts just a few years ago.
 
 Thankfully, new technology has made it increasingly simple for people to start investing on their own without having to seek out help from a financial expert. Specifically, the innovative investment investment app, <a href="//acorns.com/invite/T9A7J3">Acorns</a>, allowed me to start investing affordably, quickly, and pain-free. Acorns is a leader in creating a highly usable and enriching experience with the stock market. Along with their easy and intuitive platform, they provide users with personalized investment portfolios built with the help of Nobel Prize-winning economist, Dr. Harry Markowitz. This means someone without adequate knowledge in the stock market does not have to choose a single stock or bond to invest in themselves -- the pros have already done it for them. 
 
