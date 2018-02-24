@@ -8,9 +8,9 @@ Description: >-
   stocks in companies like Amazon and Tesla.
 feature_image: /img/five-dollar-investing.jpg
 ---
-Gone are the days where it seemed nearly impossible for an average individual to get their hands in the stock market and start investing. Whether it was the daunting task of finding a financial adviser or being too uneducated to choose stocks on their own, the process just felt like too much work for most people.
+For someone who has never invested in the stock market before it can seem very difficult to begin. Whether it's the daunting task of finding a financial adviser or not even knowing where to begin when choosing stocks to buy on your own, the whole process seems out of reach. How do I know this? Because I was in that exact position with those exact thoughts just a few years ago.
 
-Luckily, technology has made it increasingly simple for people to start investing on their own without having to seek out help from a financial expert. The innovative investment investment app, <a href="//www.acorns.com/">Acorns</a>, has become a leader in creating a highly usable and enriching experience with the stock market. Along with their easy and intuitive platform, they provide users with personalized investment portfolios built with the help of Nobel Prize-winning economist, Dr. Harry Markowitz. This means someone without adequate knowledge in the stock market does not have to choose a single stock or bond to invest in themselves -- the pros have already done it for them. 
+Thankfully, new technology has made it increasingly simple for people to start investing on their own without having to seek out help from a financial expert. Specifically, the innovative investment investment app, <a href="//www.acorns.com/">Acorns</a>, allowed me to start investing affordably, quickly, and pain-free. Acorns is a leader in creating a highly usable and enriching experience with the stock market. Along with their easy and intuitive platform, they provide users with personalized investment portfolios built with the help of Nobel Prize-winning economist, Dr. Harry Markowitz. This means someone without adequate knowledge in the stock market does not have to choose a single stock or bond to invest in themselves -- the pros have already done it for them. 
 
 ### Pricing
 
