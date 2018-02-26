@@ -18,7 +18,7 @@ Acorns is 100% free for all students to use and otherwise costs just $1 a month 
 
 ### How To Become a Millionaire with $5 a Day
 
-So how can you actually build your portfolio up $25,000 or heck, $1 Million? It's actually simpler than you might think. Here's how:
+So how can you actually build your portfolio up $25,000, or heck, $1 Million?! It's actually simpler than you might think. Here's how:
 
 1. Choose an Acorns portfolio with roughly 50% stocks and 50% bonds. In the past 100 years, blue chip stocks have paid an average 10% of interest while investment bonds have paid 6%. This averages out to be 8% - the golden interest rate that makes this possible.
 
