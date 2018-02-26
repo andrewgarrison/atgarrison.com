@@ -14,7 +14,7 @@ Thankfully, new technology has made it increasingly simple for people to start i
 
 ### Pricing
 
-Acorns is 100% free for all students to use and otherwise costs just $1 a month for general users. When your account soars past the $5000 mark, the fee schedule then changes to a flat rate 0.25% per year. So if you have a portfolio balance of say $25,000, you are only paying $62.50 per year directly to Acorns. Not to mention, if you're getting an average 5% return on your investment per year, you would be earning $1,250 in interest which makes the $62.50 seem very miniscule.
+Acorns is 100% free for all students to use and otherwise costs just $1 a month for general users. When your account soars past the $5000 mark, the fee schedule then changes to a low flat rate of 0.25% per year. So if you have a portfolio balance of say $25,000, you are only paying $62.50 per year directly to Acorns. Not to mention, if you're getting an average 5% return on your investment per year, you would be earning $1,250 in interest which makes the $62.50 seem very minuscule.
 
 ### How To Become a Millionaire with $5 a Day
 
