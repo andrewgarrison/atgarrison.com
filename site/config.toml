@@ -15,8 +15,8 @@ title = "Andrew Garrison"
     url  = "/projects"
     weight = 2
 [[menu.main]]
-    name = "Blog"
-    url  = "/blog"
+    name = "Resume"
+    url  = "/resume"
     weight = 3
 [[menu.main]]
     name = "Now"

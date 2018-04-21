@@ -6,6 +6,8 @@ url = "/now"
 
 # Now
 
-##### FEB 13th, 2018
+##### APRIL 21st, 2018
 
-I am working on updating my resume and portfolio to get a jump on internship opportunities for the summer of 2019.
+1. Building a client site (April 28th deadline).
+2. Creating a video in Adobe Premiere Pro to celebrate my grandparents' 50th anniversary (May 25th deadline). 
+3. Prepping for final exams.
