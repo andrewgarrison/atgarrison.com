@@ -20,7 +20,14 @@ url = "/resume"
         <div class="c-cv-group">
             <h4 class="c-cv-group__name">Gallup | <span>Omaha, NE</span></h4>
             <div class="c-cv-group__position">UX Developer Intern</div>
-            <div class="c-cv-group__desc">Working closely with UX designers, I take on the task of developing out complicatted interfaces and complex systems. I’ve grown from being assigned with small development tasks to leading full development efforts of new marketing sites.</div>
+            <div class="c-cv-group__desc">Work closely with UX Designers to turn website mockups into outward facing client sites under the gallup.com domain.</div>
+            <ul class="c-cv-group-list">
+                <li>Lead development efforts on new <a href="/projects/project/borntobuild/">product landing pages</a> to convert traffic into sales.</li>
+                <li>Create new components and tools that leverage into a number other projects, accelerating development progress.</li>
+                <li>Use and contribute to style guides and other design documentation to maintain coherent information and interaction design patterns.</li>
+                <li>Identify and eliminate website bugs to improve user experience.</li>
+                <li>Mentor high school intern in UX/UI Design Internship program.</li>
+            </ul>
         </div>
     </div>
     <div class="flex-display flex-display--baseline">
@@ -28,7 +35,12 @@ url = "/resume"
         <div class="c-cv-group">
             <h4 class="c-cv-group__name">Freelance | <span>Omaha, NE</span></h4>
             <div class="c-cv-group__position">Designer, Developer</div>
-            <div class="c-cv-group__desc">Working closely with UX designers, I take on the task of developing out complicatted interfaces and complex systems. I’ve grown from being assigned with small development tasks to leading full development efforts of new marketing sites.</div>
+            <div class="c-cv-group__desc">Provide web design & development services to individuals, start-ups and small businesses to help make ideas become realities.</div>
+            <ul class="c-cv-group-list">
+                <li>Designed and developed a custom landing page for Dallas based startup, <a href="/projects/project/ramifai/">RamifAI.</a></li>
+                <li>Customized shopify theme using CSS & Liquid templating language to match design mockups for Boulder baseed startup, <a href="/projects/project/wildeguide/">WildeGuide.</a></li>
+                <li>Designed a <a href="//www.behance.net/gallery/51154251/Landing-Page-for-Startup-CO">landing page</a> for a UK based start-up that helps people register ther businesses instantly online.</li>
+            </ul>
         </div>
     </div>
 </section>
@@ -90,5 +102,5 @@ url = "/resume"
 </section>
 
 <section class="c-cv-section c-cv-section--download">
-    <a href="#" class="btn btn-primary">Download Resume</a>
+    <a onclick="alert('The PDF version of resume is not yet available. Coming soon though. Sorry for the inconvenience!')" href="#" class="btn btn-primary">Download Resume</a>
 </section>
