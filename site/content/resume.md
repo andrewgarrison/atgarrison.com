@@ -20,7 +20,6 @@ url = "/resume"
         <div class="c-cv-group">
             <h4 class="c-cv-group__name">Gallup | <span>Omaha, NE</span></h4>
             <div class="c-cv-group__position">UX Developer Intern</div>
-            <div class="c-cv-group__desc">Work closely with UX Designers to turn website mockups into outward facing client sites under the gallup.com domain.</div>
             <ul class="c-cv-group-list">
                 <li>Lead development efforts on new <a href="/projects/project/borntobuild/">product landing pages</a> to convert traffic into sales.</li>
                 <li>Create new components and tools that leverage into a number other projects, accelerating development progress.</li>
