@@ -6,7 +6,7 @@ url = "/now"
 
 # Now
 
-##### MAY 3rd, 2018
+##### MAY 15th, 2018
 
 1. Creating a video in Adobe Premiere Pro to celebrate my grandparents' 50th anniversary.
-2. Using the Spotify API to create a music sharing web app as a side project.
+2. Using React and the Spotify Web API to create better uesr profiles.
