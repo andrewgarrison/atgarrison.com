@@ -22,11 +22,11 @@ page_layout = ""
 
 # About Me
 
-I'm currently a Sophomore in College at the <a href="//www.unomaha.edu/" title="www.unomaha.edu">University of Nebraska Omaha</a> and a System Application Developer Intern at <a href="//www.gallup.com/home.aspx" title="www.gallup.com">Gallup</a>. I love everything UX related and have a heavy interest in Marketing - which is what I am studying in school. When I'm not at school or behind the computer, I enjoy traveling and documenting experiences with my camera.
+I'm currently a Junior in College at the <a href="//www.unomaha.edu/" title="www.unomaha.edu">University of Nebraska Omaha</a> and a System Application Developer Intern at <a href="//www.gallup.com/home.aspx" title="www.gallup.com">Gallup</a>. I love everything UX related and have a heavy interest in Marketing - which is what I am studying in school. When I'm not at school or behind the computer, I enjoy traveling and documenting my experiences with my camera.
 
 
 # My Workspace
 
 ![Workspace](/img/workspace.jpg "Andrew's Desk and Computer")
 
-This is where I hide away to work on new creative projects and watch the usual Netflix show. I work on a 27" 2017 iMac. It's the base model with 1TB of internal storage, a 5k display, and 16GB of RAM.
+This is where I hide away to work on new creative projects and watch the usual Netflix show. When it comes to computers, my weapon of choice is a 27" 2017 iMac. 
