@@ -37,7 +37,7 @@ url = "/resume"
             <div class="c-cv-group__desc">Provide web design & development services to individuals, start-ups and small businesses to help make ideas become realities.</div>
             <ul class="c-cv-group-list">
                 <li>Designed and developed a custom landing page for Dallas based startup, <a href="/projects/project/ramifai/">RamifAI.</a></li>
-                <li>Customized shopify theme using CSS & Liquid templating language to match design mockups for Boulder baseed startup, <a href="/projects/project/wildeguide/">WildeGuide.</a></li>
+                <li>Customized shopify theme using CSS & Liquid templating language to match design mockups for Boulder based startup, <a href="/projects/project/wildeguide/">WildeGuide.</a></li>
                 <li>Designed a <a href="//www.behance.net/gallery/51154251/Landing-Page-for-Startup-CO">landing page</a> for a UK based start-up that helps people register ther businesses instantly online.</li>
             </ul>
         </div>
