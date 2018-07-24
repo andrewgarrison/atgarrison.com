@@ -87,16 +87,18 @@
     text-align: center;
     margin-bottom: 84px;
 
-    &__name {
-        color: var(--blue);
+    &_wrapper {
+        @media (min-width: 768px) {
+            justify-content: baseline;
+            align-items: baseline;
+        }
+    }
 
-        &::after {
-            display: block;
-            position: relative;
-            width: 250px;
-            margin: 24px auto;
-            border-bottom: 2px dotted var(--black);
-            content: "";
+    &__name {
+        color: var(--black);
+
+        span {
+            font-weight: lighter;
         }
     }
 
@@ -107,11 +109,13 @@
     }
 
     & li {
-        display: inline-block;
+        display: block;
         margin: 0 20px;
         position: relative;
         
         @media (min-width: 768px) {
+            display: inline-block;
+
             &:not(:nth-child(3)):after {
                 position: absolute;
                 top: 50%;
@@ -146,6 +150,21 @@
         &:focus::after {
             width: 100%;
             transition: width .1s cubic-bezier(0.8, 1, 0.8, 1);
+        }
+    }
+
+    &__badge {
+        position: relative;
+        padding: 6px 12px;
+        margin-left: 0;
+        font-size: 14px;
+        background-color: rgba(59, 109, 191, .12);
+        color: rgb(59, 109, 191);
+        border-radius: 4px;
+        bottom: 6px;
+
+        @media (min-width: 768px) {
+            margin-left: 32px;
         }
     }
 }

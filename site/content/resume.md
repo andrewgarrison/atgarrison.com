@@ -5,7 +5,10 @@ url = "/resume"
 +++
 
 <header class="c-cv-contact">
-    <h1 class="c-cv-contact__name">Andrew Garrison</h1>
+    <div class="c-cv-contact_wrapper flex-display flex-display--center">
+        <h1 class="c-cv-contact__name">Andrew <span>Garrison</span></h1>
+        <div class="c-cv-contact__badge flex-display flex-display--center">UX Developer</div>
+    </div>
     <ul>
         <li><a class="c-cv-contact__link" href="//atgarrison.com">atgarrison.com</a></li>
         <li><a class="c-cv-contact__link" href="mailto:andrewtategarrison@gmail.com">andrewtategarrison@gmail.com</a></li>
@@ -30,7 +33,7 @@ url = "/resume"
         </div>
     </div>
     <div class="flex-display flex-display--baseline">
-        <div class="c-cv-date-range">August 2016<span class="c-dash-divider">-</span><br>Present</div>
+        <div class="c-cv-date-range">Aug 2016<span class="c-dash-divider">-</span><br>Present</div>
         <div class="c-cv-group">
             <h4 class="c-cv-group__name">Freelance | <span>Omaha, NE</span></h4>
             <div class="c-cv-group__position">Designer, Developer</div>
@@ -77,6 +80,8 @@ url = "/resume"
                 <li>CSS</li>
                 <li>LESS</li>
                 <li>JavaScript</li>
+                <li>C#</li>
+                <li>JSON</li>
                 <li>Git</li>
             </ul>
         </div>
@@ -97,9 +102,19 @@ url = "/resume"
                 <li>Wireframing</li>
             </ul>
         </div>
+        <div class="c-cv-group">
+            <h5 class="c-cv-group__category">Miscellaneous</h5>
+            <ul class="c-cv-group-list">
+                <li>GitHub</li>
+                <li>BEM Methodology</li>
+                <li>Jira</li>
+                <li>Hugo Templating Language</li>
+                <li>Google Analytics</li>
+            </ul>
+        </div>
     </div>
 </section>
 
 <section class="c-cv-section c-cv-section--download">
-    <a onclick="alert('The PDF version of resume is not yet available. Coming soon though. Sorry for the inconvenience!')" href="#" class="btn btn-primary">Download Resume</a>
+    <a href="/img/MyResume.pdf" class="btn btn-primary" download="Resume.pdf">Download Resume</a>
 </section>
