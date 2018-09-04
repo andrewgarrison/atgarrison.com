@@ -22,7 +22,7 @@ page_layout = ""
 
 # About Me
 
-I'm currently a Junior in College at the <a href="//www.unomaha.edu/" title="www.unomaha.edu">University of Nebraska Omaha</a> and a System Application Developer Intern at <a href="//www.gallup.com/home.aspx" title="www.gallup.com">Gallup</a>. I love everything UX related and have a heavy interest in Marketing - which is what I am studying in school. When I'm not at school or behind the computer, I enjoy traveling and documenting my experiences with my camera.
+I'm currently a Junior in College at the <a href="//www.unomaha.edu/" title="www.unomaha.edu">University of Nebraska Omaha</a> and a System Application Developer Intern at <a href="//www.gallup.com/home.aspx" title="www.gallup.com">Gallup</a>. I love everything UX related and have a heavy interest in Marketing - which is what I am studying in school. When I'm not at school or at work, I enjoy traveling, making music, and dabbling in photography/videography. 
 
 
 # My Workspace
