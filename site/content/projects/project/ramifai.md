@@ -19,3 +19,6 @@ Designing can take much deeper thought and consideration than the development pr
 
 ### Tools & Technology Used
 AdobeXD, Webflow
+
+<br>
+<small>Fall 2018 Update: James renamed <i>Ramifai</i> to <i>DegreeChamp</i></small>
