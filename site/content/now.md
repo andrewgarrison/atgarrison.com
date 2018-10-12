@@ -6,7 +6,8 @@ url = "/now"
 
 # Now
 
-##### September 27th, 2018
+##### October 12th, 2018
  
-1. Improving MovieFinder
-2. Amazon Web Services (AWS) training
+1. Improving <a href="/projects/project/moviefinder/">MovieFinder</a>
+2. Making beats in Logic Pro X
+3. Uploading some past design work on <a href="https://www.behance.net/andrewtg">Behance</a>

@@ -15,7 +15,17 @@ url = "/resume"
         <li><a class="c-cv-contact__link" href="tel:+14023158513">1.402.315.8513</a></li>
     </ul>
 </header>
-
+<section class="c-cv-section">
+    <h3 class="c-cv-section__heading">Summary of Qualifications</h3>
+    <div class="c-cv-group c-cv-summary">
+        <ul class="c-cv-group-list">
+            <li>3.5 years cumulative experience building and using existing components to create web pages</li>
+            <li>Experience working with HTML, CSS, JavaScript, C#, and Git</li>
+            <li>Experience with design tools such Sketch, Adobe XD, and Photoshop</li>
+            <li>Experience collaborating with UX Design teams to gather design specifications</li>
+        </ul>
+    </div>
+</section>
 <section class="c-cv-section">
     <h3 class="c-cv-section__heading">Experience</h3>
     <div class="flex-display flex-display--baseline">
@@ -24,24 +34,22 @@ url = "/resume"
             <h4 class="c-cv-group__name">Gallup | <span>Omaha, NE</span></h4>
             <div class="c-cv-group__position">UX Developer Intern</div>
             <ul class="c-cv-group-list">
-                <li>Lead development efforts on new <a href="/projects/project/borntobuild/">product landing pages</a> to convert traffic into sales.</li>
-                <li>Create new components and tools that leverage into a number other projects, accelerating development progress.</li>
-                <li>Use and contribute to style guides and other design documentation to maintain coherent information and interaction design patterns.</li>
-                <li>Identify and eliminate website bugs to improve user experience.</li>
-                <li>Mentor high school intern in UX/UI Design Internship program.</li>
+                <li>Re-wrote and re-designed the front end of an internal learning and wellness application from scratch</li>
+                <li>Created new components and tools that leveraged into a number of other projects, accelerating development progress</li>
+                <li>Used and contributed to style guides and other design documentation to maintain consistent design patterns</li>
+                <li>Identified and eliminated website bugs to boost performance and improve the overall user experience</li>
             </ul>
         </div>
     </div>
     <div class="flex-display flex-display--baseline">
-        <div class="c-cv-date-range">Aug 2016<span class="c-dash-divider">-</span><br>Present</div>
+        <div class="c-cv-date-range">Dec 2016<span class="c-dash-divider">-</span><br>May 2017</div>
         <div class="c-cv-group">
-            <h4 class="c-cv-group__name">Freelance | <span>Omaha, NE</span></h4>
-            <div class="c-cv-group__position">Designer, Developer</div>
-            <div class="c-cv-group__desc">Provide web design & development services to individuals, start-ups and small businesses to help make ideas become realities.</div>
+            <h4 class="c-cv-group__name">WildeGuide | <span>Boulder, CO</span></h4>
+            <div class="c-cv-group__position">Front End Developer Intern</div>
             <ul class="c-cv-group-list">
-                <li>Designed and developed a custom landing page for Dallas based startup, <a href="/projects/project/ramifai/">RamifAI.</a></li>
-                <li>Customized shopify theme using CSS & Liquid templating language to match design mockups for Boulder based startup, <a href="/projects/project/wildeguide/">WildeGuide.</a></li>
-                <li>Designed a <a href="//www.behance.net/gallery/51154251/Landing-Page-for-Startup-CO">landing page</a> for a UK based start-up that helps people register ther businesses instantly online.</li>
+                <li>Wireframed and prototyped the initial design for the WildeGuide platform</li>
+                <li>Developed the design in Shopify using CSS & Liquid (Shopify templating language)</li>
+                <li>Created and designed a slide deck used to pitch to investors at Boulder's <i>New Venture Challenge</i></li>
             </ul>
         </div>
     </div>
@@ -50,23 +58,26 @@ url = "/resume"
     <h3 class="c-cv-section__heading">Education</h3>
     <div class="flex-display flex-display--baseline">
         <div class="c-cv-date-range">Aug 2017<span class="c-dash-divider">-</span><br>May 2020</div>
-        <div class="c-cv-group">   
+        <div class="c-cv-group">
             <h4 class="c-cv-group__name">University of Nebraska Omaha | <span>Omaha, NE</span></h4>
-            <div class="c-cv-group__position">Business Administration - Marketing</div>
+            <div class="c-cv-group__position">B.A., Marketing, Junior</div>
         </div>
     </div>
+</section>
+<section class="c-cv-section">
+    <h3 class="c-cv-section__heading">Certifications / Course Work</h3>
     <div class="flex-display flex-display--baseline">
-        <div class="c-cv-date-range">Sep 2016<span class="c-dash-divider">-</span><br>Dec 2017</div>
+        <div class="c-cv-date-range">Sep 2016<span class="c-dash-divider">-</span><br>Dec 2016</div>
         <div class="c-cv-group">
             <h4 class="c-cv-group__name">Spark Boulder | <span>Boulder, CO</span></h4>
-            <div class="c-cv-group__position">Front-End Development</div>
+            <div class="c-cv-group__position">Front End Web Development</div>
         </div>
     </div>
     <div class="flex-display flex-display--baseline">
         <div class="c-cv-date-range">Aug 2015<span class="c-dash-divider">-</span><br>May 2016</div>
         <div class="c-cv-group">
             <h4 class="c-cv-group__name">Colorado State University | <span>Fort Collins, CO</span></h4>
-            <div class="c-cv-group__position">Computer Science</div>
+            <div class="c-cv-group__position">Java 1 & 2 (CS160 & CS161)</div>
         </div>
     </div>
 </section>
@@ -80,8 +91,8 @@ url = "/resume"
                 <li>CSS</li>
                 <li>LESS</li>
                 <li>JavaScript</li>
+                <li>ReactJS</li>
                 <li>C#</li>
-                <li>JSON</li>
                 <li>Git</li>
             </ul>
         </div>
@@ -116,5 +127,5 @@ url = "/resume"
 </section>
 
 <section class="c-cv-section c-cv-section--download">
-    <a href="/img/MyResume.pdf" class="btn btn-primary" download="Resume.pdf">Download Resume</a>
+    <a href="/img/Resume.pdf" class="btn btn-primary" download="Resume.pdf">Download Resume</a>
 </section>

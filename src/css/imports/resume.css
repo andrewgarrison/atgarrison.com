@@ -2,6 +2,7 @@
     padding: 0;
 
     &__heading {
+        margin: 1em 0;
         font-size: 1rem;
         color: var(--blue);
         text-transform: uppercase;
@@ -74,12 +75,15 @@
     
     &__position {
         margin-bottom: 16px;
-        font-family: "questa-grande";
-        font-style: italic;
     }
 
     &-list {
         padding: 0 18px;
+    }
+
+    h4, 
+    h5 {
+        margin-top: 0;
     }
 }
 
@@ -166,6 +170,12 @@
         @media (min-width: 768px) {
             margin-left: 32px;
         }
+    }
+}
+
+.c-cv-summary {
+    @media (min-width: 768px) {
+        margin-left: 132px;
     }
 }
 
