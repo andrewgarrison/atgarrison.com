@@ -8,6 +8,5 @@ url = "/now"
 
 ##### October 12th, 2018
  
-1. Improving <a href="/projects/project/moviefinder/">MovieFinder</a>
-2. Making beats in Logic Pro X
-3. Uploading some past design work on <a href="https://www.behance.net/andrewtg">Behance</a>
+1. Learning AWS Amplify
+2. Uploading some past design work on <a href="https://www.behance.net/andrewtg">Behance</a>
