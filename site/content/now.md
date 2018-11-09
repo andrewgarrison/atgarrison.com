@@ -6,7 +6,7 @@ url = "/now"
 
 # Now
 
-##### October 12th, 2018
+##### November 3rd, 2018
  
-1. Learning AWS Amplify
-2. Uploading some past design work on <a href="https://www.behance.net/andrewtg">Behance</a>
+1. Exploring AWS Amplify
+2. Learning Adobe XD's new auto-animate feature
