@@ -1,6 +1,6 @@
 ---
 title: Stress Management
-date: '2018-12-02T15:28:57-06:00'
+date: 2018-11-02T02:30:00.000Z
 Categories: Health Resource Project
 type: posts
 Description: >-
