@@ -55,5 +55,16 @@
     img {
         margin: 48px 0;
     }
+
+    & .question label {
+        display: block;
+    }
+
+    .score-results {
+        display: none;
+        margin: 40px 0;
+        padding: 20px;
+        background-color: var(--yellow);
+    }
 }
 

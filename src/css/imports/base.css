@@ -105,6 +105,10 @@ section {
   }
 }
 
+button.btn {
+  cursor: pointer;
+}
+
 img {
   max-width: 100%;
   display: block;
