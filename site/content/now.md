@@ -6,7 +6,7 @@ url = "/now"
 
 # Now
 
-##### November 3rd, 2018
+##### January 8th, 2019
  
-1. Exploring AWS Amplify
-2. Learning Adobe XD's new auto-animate feature
+1. Building authentication using Auth0 to register users for MovieFinder
+2. Starting the 2019 Spring Semester
