@@ -6,7 +6,7 @@ url = "/now"
 
 # Now
 
-##### January 8th, 2019
+##### March 12, 2019
  
-1. Building authentication using Auth0 to register users for MovieFinder
-2. Starting the 2019 Spring Semester
+1. Adding a color contrast Analyzer to CopyColor using the WebAIM API
+2. Designing mockups for a startup that I'm co-founding called Koda
