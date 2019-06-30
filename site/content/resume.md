@@ -19,17 +19,29 @@ url = "/resume"
     <h3 class="c-cv-section__heading">Summary of Qualifications</h3>
     <div class="c-cv-group c-cv-summary">
         <ul class="c-cv-group-list">
-            <li>3.5 years cumulative experience building and using existing components to create web pages</li>
-            <li>Experience working with HTML, CSS, JavaScript, C#, and Git</li>
-            <li>Experience with design tools such Sketch, Adobe XD, and Photoshop</li>
-            <li>Experience collaborating with UX Design teams to gather design specifications</li>
+            <li>4 years cumulative experience building and using existing components to create websites</li>
+            <li>Experience working with HTML, CSS, JavaScript (React), C#, and Git</li>
+            <li>Experience with design tools such as Adobe XD, Figma, Sketch and Photoshop</li>
+            <li>Experience collaborating with UX Design and Marketing teams to gather specifications for websites</li>
         </ul>
     </div>
 </section>
 <section class="c-cv-section">
     <h3 class="c-cv-section__heading">Experience</h3>
     <div class="flex-display flex-display--baseline">
-        <div class="c-cv-date-range">June 2015<span class="c-dash-divider">-</span><br>Present</div>
+        <div class="c-cv-date-range">May 2019<span class="c-dash-divider">-</span><br>Present</div>
+        <div class="c-cv-group">
+            <h4 class="c-cv-group__name">Spreetail | <span>Omaha, NE</span></h4>
+            <div class="c-cv-group__position">Software Engineer Intern</div>
+            <ul class="c-cv-group-list">
+                <li>Worked with a UX Designer to implement new React components during an internal software redesign</li>
+                <li>Utilized Redux for state management while writing React</li>
+                <li>Set SCSS coding standards within our team to improve consistency</li>
+            </ul>
+        </div>
+    </div>
+    <div class="flex-display flex-display--baseline">
+        <div class="c-cv-date-range">June 2015<span class="c-dash-divider">-</span><br>April 2019</div>
         <div class="c-cv-group">
             <h4 class="c-cv-group__name">Gallup | <span>Omaha, NE</span></h4>
             <div class="c-cv-group__position">UX Developer Intern</div>
@@ -41,18 +53,6 @@ url = "/resume"
             </ul>
         </div>
     </div>
-    <div class="flex-display flex-display--baseline">
-        <div class="c-cv-date-range">Dec 2016<span class="c-dash-divider">-</span><br>May 2017</div>
-        <div class="c-cv-group">
-            <h4 class="c-cv-group__name">WildeGuide | <span>Boulder, CO</span></h4>
-            <div class="c-cv-group__position">Front End Developer Intern</div>
-            <ul class="c-cv-group-list">
-                <li>Wireframed and prototyped the initial design for the WildeGuide platform</li>
-                <li>Developed the design in Shopify using CSS & Liquid (Shopify templating language)</li>
-                <li>Created and designed a slide deck used to pitch to investors at Boulder's <i>New Venture Challenge</i></li>
-            </ul>
-        </div>
-    </div>
 </section>
 <section class="c-cv-section">
     <h3 class="c-cv-section__heading">Education</h3>
@@ -60,7 +60,7 @@ url = "/resume"
         <div class="c-cv-date-range">Aug 2017<span class="c-dash-divider">-</span><br>May 2020</div>
         <div class="c-cv-group">
             <h4 class="c-cv-group__name">University of Nebraska Omaha | <span>Omaha, NE</span></h4>
-            <div class="c-cv-group__position">B.A., Marketing, Junior</div>
+            <div class="c-cv-group__position">B.A., Marketing, Senior</div>
         </div>
     </div>
 </section>
@@ -91,7 +91,7 @@ url = "/resume"
                 <li>CSS</li>
                 <li>LESS</li>
                 <li>JavaScript</li>
-                <li>ReactJS</li>
+                <li>React</li>
                 <li>C#</li>
                 <li>Git</li>
             </ul>
@@ -100,6 +100,7 @@ url = "/resume"
             <h5 class="c-cv-group__category">Design</h5>
             <ul class="c-cv-group-list">
                 <li>Adobe XD</li>
+                <li>Figma</li>
                 <li>Sketch</li>
                 <li>Photoshop</li>
                 <li>InVision</li>
@@ -119,8 +120,8 @@ url = "/resume"
                 <li>GitHub</li>
                 <li>BEM Methodology</li>
                 <li>Jira</li>
-                <li>Hugo Templating Language</li>
                 <li>Google Analytics</li>
+                <li>Google Optimize</li>
             </ul>
         </div>
     </div>
