@@ -8,5 +8,5 @@ url = "/now"
 
 ##### March 12, 2019
  
-1. Adding a color contrast Analyzer to CopyColor using the WebAIM API
-2. Designing mockups for a startup that I'm co-founding called Koda
+1. Improving my understanding of Redux to be a better Front End Dev at Spreetail
+2. Sorting through some pictures and videos from my recent trip to Nantucket, MA
