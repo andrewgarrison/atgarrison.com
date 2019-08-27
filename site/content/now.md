@@ -6,7 +6,7 @@ url = "/now"
 
 # Now
 
-##### March 12, 2019
+##### August 27th, 2019
  
-1. Improving my understanding of Redux to be a better Front End Dev at Spreetail
-2. Sorting through some pictures and videos from my recent trip to Nantucket, MA
+1. Starting my senior year at the University of Nebraska Omaha
+2. Working part-time as a Front-End Engineer at Spreetail
