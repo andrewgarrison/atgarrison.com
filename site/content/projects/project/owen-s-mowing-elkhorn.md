@@ -6,7 +6,7 @@ type: project
 Description: >-
   Built a fully functional company website hooked up to a backend CMS to allow
   for easy editing.
-feature_image: /img/owensmowingthumbnail.jpg
+feature_image: /img/owensmowingthumb.jpg
 website: 'http://owensmowingelkhorn.com/'
 ---
 ### Overview
