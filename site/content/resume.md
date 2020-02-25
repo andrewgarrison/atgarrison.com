@@ -7,7 +7,7 @@ url = "/resume"
 <header class="c-cv-contact">
     <div class="c-cv-contact_wrapper flex-display flex-display--center">
         <h1 class="c-cv-contact__name">Andrew <span>Garrison</span></h1>
-        <div class="c-cv-contact__badge flex-display flex-display--center">Front End Web Developer</div>
+        <div class="c-cv-contact__badge flex-display flex-display--center">Front End Engineer</div>
     </div>
     <ul>
         <li><a class="c-cv-contact__link" href="//atgarrison.com">atgarrison.com</a></li>

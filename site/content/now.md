@@ -6,7 +6,8 @@ url = "/now"
 
 # Now
 
-##### August 27th, 2019
+##### February 25th, 2020
  
-1. Starting my senior year at the University of Nebraska Omaha
-2. Working part-time as a Front-End Engineer at Spreetail
+1. Working part-time as a Front-End Engineer at Spreetail
+2. Strategizing investments to ensure a bright future
+3. Looking to take on some client work
