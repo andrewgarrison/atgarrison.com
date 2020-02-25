@@ -9,5 +9,4 @@ url = "/now"
 ##### February 25th, 2020
  
 1. Working part-time as a Front-End Engineer at Spreetail
-2. Strategizing investments to ensure a bright future
-3. Looking to take on some client work
+2. Looking to take on some client work
