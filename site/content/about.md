@@ -22,11 +22,11 @@ page_layout = ""
 
 # About Me
 
-I'm currently a Senior in College at the <a href="//www.unomaha.edu/" title="www.unomaha.edu">University of Nebraska Omaha</a> and a Part-Time Front End Engineer at <a href="https://www.wearespreetail.com/" title="Spreetail">Spreetail</a>. I love everything UX and Engineering related and have a heavy interest in Marketing - which is what I am studying in school. When I'm not at school or at work, I enjoy traveling, making music, and dabbling in photography/videography. 
+I'm currently a Full-Time Front End Engineer at <a href="https://www.wearespreetail.com/" title="Spreetail">Spreetail</a>. I love everything UX and Front End Development related and have an interest in marketing - which is what I studied in school. When I'm not at work, I enjoy traveling, making music, and dabbling in photography/videography. 
 
 
 # My Workspace
 
 ![Workspace](/img/workspace.jpg "Andrew's Desk and Computer")
 
-This is where I hide away to work on new creative projects and watch the usual Netflix show. My computer of choice is a 27" iMac.
+This is where I hide away to work on new creative projects and watch the usual Netflix show.
