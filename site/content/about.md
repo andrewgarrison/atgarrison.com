@@ -15,8 +15,6 @@ page_layout = ""
     <div class="c-info__social">
         <a class="c-info__social-icon" href="//www.linkedin.com/in/andrewtategarrison/"><i class="fab fa-linkedin-in fa-2x"></i></a>
         <a class="c-info__social-icon" href="//github.com/andrewgarrison"><i class="fab fa-github fa-2x"></i></a>
-        <a class="c-info__social-icon" href="//twitter.com/Andrew_Garrison"><i class="fab fa-twitter fa-2x"></i></a>
-        <a class="c-info__social-icon" href="//www.instagram.com/andrew_garrison/"><i class="fab fa-instagram fa-2x"></i></a>
     </div>
 </div>
 
